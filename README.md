@@ -3,6 +3,9 @@
 
 https://resultados.gob.ar/elecciones/1/53261/1/-1/-1/Buenos-Aires/Secci%C3%B3n-Cuarta/Leandro-N.-Alem/Leandro-N.-Alem/00553/ESCUELA-EP-N%C2%B08%2FES-N%C2%B06/0206600046X
 
+Es necesario algun webdrive como Chrome https://chromedriver.chromium.org/
+
+
 ```
 pip install -r requirements
 python scrapper.py
